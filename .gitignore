@@ -5,6 +5,7 @@
 dist/
 node_modules/
 stirling-pdf/
+src/
 
 fft_top.v
 bit_reversal.v
@@ -15,4 +16,3 @@ test_top.v
 twiddle_rom.v
 package-lock.json
 package.json
-
